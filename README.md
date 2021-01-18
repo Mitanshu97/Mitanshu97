@@ -6,7 +6,6 @@ I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse Univers
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for help with outstanding Devops projects ideas.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: mitanshu800@gmail.com.
 - 😄 Pronouns: Mitanshu.
