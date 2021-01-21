@@ -1,8 +1,8 @@
 ## Hi I'm Mitanshu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse University. I spend most of time coding outstanding projects and solving leetcode probelms.
+I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse University. I spend most of time coding outstanding projects and solving leetcode probelms. I'm looking for full time opportunities as a Software Developer, Back-end engineer and Devops engineer starting from May 2021. 
 
-- 🔭 I’m currently working as a Software Deveoper Co-op.
+- 🔭 I’m currently working as a Software Deveoper Co-op (Intern). 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for help with outstanding Devops projects ideas.
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -13,10 +13,6 @@ I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse Univers
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
 
 
 
