@@ -1,14 +1,14 @@
 ## Hi I'm Mitanshu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse University. I spend most of time coding outstanding projects and solving leetcode probelms. I'm looking for full time opportunities as a Software Developer, Back-end engineer and Devops engineer starting from May 2021. 
+I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse University. I'm looking for full time opportunities as a Software Developer, Back-end engineer and Devops engineer starting from May 2021. 
 
 - 🔭 I’m currently working as a Software Deveoper Co-op (Intern). 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for help with outstanding Devops projects ideas.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "Full Commit"`
 - 📫 How to reach me: mitanshu800@gmail.com.
-- 😄 Pronouns: Mitanshu.
+
 
 ### Spotify Playing 🎧
 
@@ -28,7 +28,7 @@ I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse Univers
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][photoes]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][photoes]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][photoes]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][photoes]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][photoes]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][photoes]
