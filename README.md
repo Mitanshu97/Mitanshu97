@@ -59,7 +59,7 @@ I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse Univers
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitanshu97&repo=github-readme-stats&theme=radical&show_owner=true)](https://github.com/Mitanshu97/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitanshu97&layout=compact&exclude_repo=Analysis-and-Prediction-of-Consumer-Complaints&langs_count=8&&hide=SCSS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitanshu97&layout=compact&exclude_repo=Analysis-and-Prediction-of-Consumer-Complaints&langs_count=5&&hide=SCSS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
