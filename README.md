@@ -3,7 +3,6 @@
 I'm Mitanshu a Full Stack Web Developer and Master's student at Syracuse University.
 
 - 🔭 I’m currently working as a Software Deveoper Co-op (Intern). 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for help with outstanding Devops projects ideas.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - :computer: Most used line of code `git commit -m "Full Commit"`
